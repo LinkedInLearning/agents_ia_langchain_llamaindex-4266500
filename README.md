@@ -1,10 +1,10 @@
-# Nom final de la formation
+# Créer des agents IA avec LangChain et LlamaIndex
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `Créer des agents IA avec LangChain et LlamaIndex`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
-DESCRIPTION DE LA FORMATION
+Explorez la création d'agents IA avec LangChain et LlamaIndex, deux frameworks clés pour développer des applications basées sur des modèles de langage (LLM). Ce cours, destiné aux développeurs et spécialistes en intelligence artificielle, vous guidera à travers l'introduction de ces technologies, l'utilisation des agents (chatbots) avec les LLM, ainsi que l'installation et la configuration de votre environnement de travail. Vous apprendrez notamment à utiliser les RAG (Retrieval-Augmented Generation) et les vector stores pour extraire et formater des données, et à appliquer des techniques d'automatisation pour mettre en œuvre des agents complets. Maîtrisez ces outils pour transformer vos projets IA en solutions innovantes et efficaces.
 
 ## Instructions
 
@@ -27,13 +27,13 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
+**Madjid Khichane** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
 [lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
 
 [1]: # (End of FR-Instruction ###############################################################################################)
