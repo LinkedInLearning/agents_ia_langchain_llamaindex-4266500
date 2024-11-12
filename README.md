@@ -20,16 +20,18 @@ La branche master correspond au code à la fin de la formation.
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
+   - Python version 2.8 et plus
+   - La bibliothèque LangChain
+   - la bibliothèque LlamaIndex
+2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree ou VSCode. 
+ 
 
 
 ### Formateur
 
 **Madjid Khichane** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+ Retrouvez mes autres formations sur [LinkedIn Learning][www.linkedin.com/in/madjid-khichane].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
