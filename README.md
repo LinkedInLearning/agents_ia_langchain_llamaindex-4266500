@@ -22,7 +22,7 @@ Explorez la création d'agents IA avec LangChain et LlamaIndex, deux frameworks 
 
 **Madjid Khichane** 
 
- Retrouvez mes autres formations sur [LinkedIn Learning][www.linkedin.com/in/madjid-khichane].
+ Retrouvez mes autres formations sur [LinkedIn Learning](www.linkedin.com/in/madjid-khichane).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/creer-des-agents-ia-avec-langchain-et-llamaindex
