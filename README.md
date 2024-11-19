@@ -13,7 +13,7 @@ Explorez la création d'agents IA avec LangChain et LlamaIndex, deux frameworks 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Python version 2.8 et plus
    - La bibliothèque LangChain
-   - la bibliothèque LlamaIndex
+   - La bibliothèque LlamaIndex
 2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree ou VSCode. 
  
 
